@@ -97,6 +97,3 @@ FROM bitnami/fluent-bit:1.8.13-debian-10-r0
 # Tags: 1.8.12-debian-10-r33, 1.8.12
 FROM bitnami/fluent-bit:1.8.12-debian-10-r33
 FROM bitnami/fluent-bit:1.8.12
-
-# Tags: 1.8.12-debian-10-r32
-FROM bitnami/fluent-bit:1.8.12-debian-10-r32
